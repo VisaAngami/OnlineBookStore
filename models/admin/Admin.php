@@ -1,11 +1,8 @@
 <?php
 /**
- * this bage  coded  by Ahmed  Embaby in  24  SEP  2019
+kaziranga University 7th sem minor project
  */
 
-/**
- * this page  coded  by Ahmed  Embaby in  29  SEP  2019
- */
 
 class Admin
 {
