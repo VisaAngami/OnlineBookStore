@@ -43,7 +43,3 @@
 			<a href="books.php">List full of books</a>
 		</li>
 	</ul>
-<?php
-	mysqli_close($conn);
-	require "./template/footer.php";
-?>
