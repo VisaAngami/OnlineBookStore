@@ -1,9 +1,6 @@
       	<hr>
 
       	<footer>
-        	<div class="text-muted pull-left">
-            	<a href="http://projectworlds.in" target="_blank"> projectworlds </a>
-        	</div>
         	<div class="text-muted pull-right">
           		<a href="admin.php">Admin Login</a> 2021
         	</div>
