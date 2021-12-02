@@ -4,6 +4,9 @@
 ?>
 
 	<form class="form-horizontal" method="post" action="admin_verify.php">
+		<fieldset>
+				    <legend>Admin Login</legend>
+				    </fieldset>
 		<div class="form-group">
 			<label for="name" class="control-label col-md-4">UserName</label>
 			<div class="col-md-4">
@@ -13,7 +16,7 @@
 		<div class="form-group">
 			<label for="pass" class="control-label col-md-4">Password</label>
 			<div class="col-md-4">
-				<input type="password" name="pass" class="form-control">
+				<input type="password" name="password" class="form-control">
 			</div>
 		</div>
 		<input type="submit" name="submit" class="btn btn-primary">
